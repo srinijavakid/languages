@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 import com.test.data.DataHub;
 import com.test.models.Employee;
 
-public class GroupingExample {
+public class Grouping {
 
 	private static List<Employee> employeesList;
 
