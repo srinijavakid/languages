@@ -1,4 +1,4 @@
-package com.test.programs;
+package com.test.samples;
 
 import java.util.List;
 
